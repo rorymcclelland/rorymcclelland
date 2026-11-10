@@ -1,6 +1,9 @@
-### Rory McClelland
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img src="assets/header-light.png" alt="Rory McClelland. A product leader who builds. AI products, built guardrails first. Studio, RFI Respond, Job Scout. mcclelland.info/work" width="800">
+</picture>
 
-**A product leader who builds.** Twenty years in product at Google, Bumble, Babbel, and Soho House. I now design and build AI products of my own, with guardrails, privacy, and safety designed in from the start.
+Twenty years in product at Google, Bumble, Babbel, and Soho House. I now design and build AI products of my own, with guardrails, privacy, and safety designed in from the start.
 
 Case studies and build notes: [mcclelland.info/work](https://mcclelland.info/work/)
 
